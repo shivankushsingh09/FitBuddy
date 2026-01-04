@@ -1,0 +1,3 @@
+Fit Buddy is a web app for tracking health and fitness goals. It offers personalized workouts, nutrition tracking, and progress visualization. Users can log workouts, monitor calorie intake, and set hydration and rest reminders. Its user-friendly interface keeps users motivated, from beginners to seasoned athletes.
+
+https://fitbuddy-v1.netlify.app/
